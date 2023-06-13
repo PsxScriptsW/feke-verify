@@ -18,4 +18,4 @@ async def on_ready():
             print("Cog Loaded!")
     print(f'{client.user} has connected to Discord!')
 
-client.run(MTExODI0MTU0MTY2MDYxODc4Mg.G9PfIi.eF91iEPfJyVUOi20nuZQWUfjIBE7bJ8F4f5bQw)
+client.run("MTExODI0MTU0MTY2MDYxODc4Mg.G9PfIi.eF91iEPfJyVUOi20nuZQWUfjIBE7bJ8F4f5bQw")
